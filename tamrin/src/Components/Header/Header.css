@@ -1,0 +1,8 @@
+.header {
+  padding: 25px;
+  box-shadow: 2px 6px 8px black;
+  margin: auto;
+  background-color: cornflowerblue;
+  color: darkblue;
+  font-size: 35px;
+}

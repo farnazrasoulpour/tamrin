@@ -1,0 +1,11 @@
+.footer {
+  padding: 25px;
+  box-shadow: -2px -4px 8px black;
+  margin: auto;
+  font-size: 35px;
+  background-color: cornflowerblue;
+  color: darkblue;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+}
